@@ -1,19 +1,21 @@
 # Anna Arbery - фрилансер web-мастер
 
 - Верстка сайтов  
-    *&nbsp;&nbsp;&nbsp; по готовому дизайну из макетов psd, figma, sketch(с 0 сайты не делаю)*
+    *&nbsp;&nbsp;&nbsp; по готовому дизайну из макетов psd, figma, sketch*
 - Wordpress  
-    *&nbsp;&nbsp;&nbsp; создание тем с 0, а так же доработка(но не магазины)*
+    *&nbsp;&nbsp;&nbsp; создание тем с 0, а так же доработка*
 - Работа с шаблонами CMS
 - Программирование JS, PHP
 
 ## Основные навыки:  
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
@@ -32,3 +34,11 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+
+
+
+## Примеры работы React:    
+
+[![Калькулятор алхимии](https://anna-arbery.ru/img/webp/portfolio/skyrim-calculator-alhimy.webp)](https://annaarbery.github.io/skyrim-calc-alhimy/)  [GitHub](https://github.com/AnnaArbery/skyrim-calc-alhimy)  | [![Профессиональный тест](https://anna-arbery.ru/img/webp/portfolio/professional-test.webp)](https://annaarbery.github.io/professional-test/)  [GitHub](https://github.com/AnnaArbery/professional-test)
+:------------ | :------------
+
