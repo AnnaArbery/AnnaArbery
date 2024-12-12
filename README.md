@@ -36,7 +36,7 @@
 
 
 
-## Примеры работы React:    
+## Примеры работ React:    
 
 [![Калькулятор алхимии](https://anna-arbery.ru/img/webp/portfolio/skyrim-calculator-alhimy.webp)](https://annaarbery.github.io/skyrim-calc-alhimy/)  [GitHub](https://github.com/AnnaArbery/skyrim-calc-alhimy)  | [![Профессиональный тест](https://anna-arbery.ru/img/webp/portfolio/professional-test.webp)](https://annaarbery.github.io/professional-test/)  [GitHub](https://github.com/AnnaArbery/professional-test)
 :------------ | :------------
