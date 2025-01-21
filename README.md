@@ -1,7 +1,7 @@
 # Anna Arbery - фрилансер web-мастер
 
 [![Codewars](https://www.codewars.com/users/AnnaArbery/badges/large)](https://www.codewars.com/users/AnnaArbery/completed_solutions)
-[![Stackoverflow](https://stackexchange.com/users/flair/13243180.png)](https://stackexchange.com/users/13243180)
+[![Stackoverflow](https://stackexchange.com/users/flair/13243180.png)](https://ru.stackoverflow.com/users/291695/arbery)
 
 - **Верстка сайтов по макетам figma, psd**
   
