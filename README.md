@@ -1,11 +1,15 @@
 # Anna Arbery - фрилансер web-мастер
 
-- Верстка сайтов  
-    *&nbsp;&nbsp;&nbsp; по готовому дизайну из макетов psd, figma, sketch*
-- Wordpress  
-    *&nbsp;&nbsp;&nbsp; создание тем с 0, а так же доработка*
-- Работа с шаблонами CMS
-- Программирование JS, PHP
+[![Codewars](https://www.codewars.com/users/AnnaArbery/badges/large)](https://www.codewars.com/users/AnnaArbery/completed_solutions)
+[![Stackoverflow](https://stackexchange.com/users/flair/13243180.png)](https://stackexchange.com/users/13243180)
+
+- **Верстка сайтов по макетам figma, psd**
+  
+- **Wordpress, создание с 0 и доработка тем**
+  
+- **Работа с шаблонами CMS**
+
+- **Программирование JS, PHP**  
 
 ## Основные навыки:  
 
@@ -38,6 +42,9 @@
 
 ## Примеры работ React:    
 
-[![Калькулятор алхимии](https://anna-arbery.ru/img/webp/portfolio/skyrim-calculator-alhimy.webp)](https://annaarbery.github.io/skyrim-calc-alhimy/)  [GitHub](https://github.com/AnnaArbery/skyrim-calc-alhimy)  | [![Профессиональный тест](https://anna-arbery.ru/img/webp/portfolio/professional-test.webp)](https://annaarbery.github.io/professional-test/)  [GitHub](https://github.com/AnnaArbery/professional-test)
-:------------ | :------------
+[![Калькулятор алхимии](https://anna-arbery.ru/img/webp/portfolio/skyrim-calculator-alhimy.webp)](https://annaarbery.github.io/skyrim-calc-alhimy/)  [GitHub](https://github.com/AnnaArbery/skyrim-calc-alhimy) | [![Профессиональный тест](https://anna-arbery.ru/img/webp/portfolio/professional-test.webp)](https://annaarbery.github.io/professional-test/)  [GitHub](https://github.com/AnnaArbery/professional-test)
+| :------------ | :------------ |
+| [![Анализатор логов](https://anna-arbery.ru/img/webp/portfolio/analizator.webp)](https://annaarbery.github.io/analizator-logs/)  [GitHub](https://github.com/AnnaArbery/analizator-logs)  |    |
+
+
 
